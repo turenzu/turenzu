@@ -4,7 +4,7 @@ This is the place where I opensource stuff and break things :rofl:
 - 🔭 &nbsp;I’m currently working on something cool :wink:
 - 🌱 &nbsp;I’m currently learning JavaScript, Go
 - 💬 &nbsp;You can discuss topics related to JavaScript, TypeScript, Python, or Flutter/Go/SQL with me.
-- 👨‍💻 &nbsp;Read more about my projects at [X.com](https://www.X.com/Aaron*)
+- 📫 &nbsp;Read more about my projects at [X.com](https://www.X.com/Aaron*)
 - ⚡ &nbsp;Fun fact: I :heart: :dog:s and Xbox Gaming (GamerTag: [Aaron](https://account.xbox.com/en-us/profile?gamertag=Aaron))
 
 <details>
