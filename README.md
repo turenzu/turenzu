@@ -19,7 +19,7 @@ This is the place where I opensource stuff and break things :rofl:
 </details>
 
 🔗 &nbsp;**Connect with me**
-<p align="left">
+<p align="left" style="white-space: nowrap;">
 <a href="https://twitter.com/Aaron*" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Aaron" height="20" width="30" /></a>
 <a href="mail:turenu#google.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google.svg" alt="Aaron" height="20" width="30" /></a>
 <a href="https://linkedin.com/in/Aaron" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Aaron" height="20" width="30" /></a>
