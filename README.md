@@ -19,12 +19,7 @@ This is the place where I opensource stuff and break things :rofl:
 </details>
 
 🔗 &nbsp;**Connect with me**
-<div style="display: flex; align-items: center; gap: 5px;">
-<a href="https://twitter.com/Aaron*" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Aaron" height="20" width="30" /></a>
-<a href="https://instagram.com/Aaron" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Aaron" height="20" width="30" /></a>
-<a href="https://spotify.com/Aaron" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" alt="Aaron" height="20" width="30" /></a>
-<a href="https://reddit.com/Aaron" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" alt="Aaron" height="20" width="30" /></a>
-<a href="https://facebook.com/Aaron" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Aaron" height="20" width="30" /></a></div>
+[![Twitter](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg)](https://twitter.com/Aaron*)&nbsp;&nbsp;[![Google](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google.svg)](mail:turenu#google.com)&nbsp;&nbsp;[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/Aaron)&nbsp;&nbsp;[![Instagram](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg)](https://instagram.com/Aaron)&nbsp;&nbsp;[![Spotify](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg)](https://spotify.com/Aaron)&nbsp;&nbsp;[![Reddit](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg)](https://reddit.com/Aaron)&nbsp;&nbsp;[![Facebook](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg)](https://facebook.com/Aaron)
 
 ---
 > “Genius is one percent inspiration and ninety-nine percent perspiration.”
