@@ -19,7 +19,7 @@ This is the place where I opensource stuff and break things :rofl:
 </details>
 
 🔗 &nbsp;**Connect with me**
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td><a href="https://twitter.com/Aaron*" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="20" width="30"></a></td>
     <td><a href="mail:turenu#google.com" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google.svg" alt="Google" height="20" width="30"></a></td>
