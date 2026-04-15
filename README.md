@@ -19,7 +19,17 @@ This is the place where I opensource stuff and break things :rofl:
 </details>
 
 🔗 &nbsp;**Connect with me**
-<a href="https://twitter.com/Aaron*"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="30" height="20"></a>&nbsp;&nbsp;<a href="mail:turenu#google.com"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google.svg" width="30" height="20"></a>&nbsp;&nbsp;<a href="https://linkedin.com/in/Aaron"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" height="20"></a>&nbsp;&nbsp;<a href="https://instagram.com/Aaron"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="30" height="20"></a>&nbsp;&nbsp;<a href="https://spotify.com/Aaron"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" width="30" height="20"></a>&nbsp;&nbsp;<a href="https://reddit.com/Aaron"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" width="30" height="20"></a>&nbsp;&nbsp;<a href="https://facebook.com/Aaron"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="30" height="20"></a>
+<table>
+  <tr>
+    <td><a href="https://twitter.com/Aaron*" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="20" width="30"></a></td>
+    <td><a href="mail:turenu#google.com" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google.svg" alt="Google" height="20" width="30"></a></td>
+    <td><a href="https://linkedin.com/in/Aaron" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="20" width="30"></a></td>
+    <td><a href="https://instagram.com/Aaron" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="20" width="30"></a></td>
+    <td><a href="https://spotify.com/Aaron" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" alt="Spotify" height="20" width="30"></a></td>
+    <td><a href="https://reddit.com/Aaron" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" alt="Reddit" height="20" width="30"></a></td>
+    <td><a href="https://facebook.com/Aaron" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="20" width="30"></a></td>
+  </tr>
+</table>
 
 ---
 > “Genius is one percent inspiration and ninety-nine percent perspiration.”
